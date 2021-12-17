@@ -54,7 +54,7 @@ Capitalized and highlighted words have the meanings given on the Cover Page or i
 
 6. ## Term & Termination  
 
-    6.1 <span class="header_3">Subscription Period</span>.  Each Order Form will start on the <span class="orderform_link">Subscription Start Date</span>, continue for the <span class="orderform_link">Subscription Period</span>, and automatically renew for additional <span class="orderform_link">Subscription Periods</span> unless one party gives written notice of non-renewal to the other party before the <span class="coverpage_link">Renewal Notice Date</span> of the then-current <span class="orderform_link">Subscription Period</span>.
+    6.1 <span class="header_3">Subscription Period</span>.  Each Order Form will start on the <span class="orderform_link">Subscription Start Date</span>, continue for the <span class="orderform_link">Subscription Period</span>, and automatically renew for additional <span class="orderform_link">Subscription Periods</span> unless one party gives written notice of non-renewal to the other party before the <span class="orderform_link">Renewal Notice Date</span> of the then-current <span class="orderform_link">Subscription Period</span>.
 
     6.2 <span class="header_3">Agreement Term.</span>  This Agreement will start on the <span class="coverpage_link">Effective Date</span> and continue for the longer of one year or until all <span class="orderform_link">Subscription Periods</span> have ended.
 
