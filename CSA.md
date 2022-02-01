@@ -111,7 +111,7 @@ Capitalized and <span class="coverpage_link">highlighted</span> words have the m
 
       (a) <span class="coverpage_link">Provider's</span> obligations as an Indemnifying Party will not apply to <span class="coverpage_link">Provider Covered Claims</span> that result from (i) modifications to the Product that were not authorized by <span class="coverpage_link">Provider</span> or that were made in compliance with <span class="coverpage_link">Customer's</span> instructions, (ii) unauthorized use of the Product, including use in violation of this Agreement, (iii) use of the Product in combination with items not provided by <span class="coverpage_link">Provider</span>, or (iv) use of an old version of the Product where a newer release would avoid the <span class="coverpage_link">Provider Covered Claim</span>.
 
-      (b) <span class="coverpage_link">Customer's</span> obligations as an Indemnifying Party will not apply to <span class="coverpage_link">Customer Covered Claims</span> that result from the unauthorized use of the <span class="coverpage_link">Customer Content</spam>, including use in violation of this Agreement.
+      (b) <span class="coverpage_link">Customer's</span> obligations as an Indemnifying Party will not apply to <span class="coverpage_link">Customer Covered Claims</span> that result from the unauthorized use of the <span class="coverpage_link">Customer Content</span>, including use in violation of this Agreement.
 
     10.6 <span class="header_3">Exclusive Remedy.</span>  This Section 10 (Indemnification), together with any termination rights, describes each Protected Party's exclusive remedy and each Indemnifying Party's entire liability for a Covered Claim.
 
