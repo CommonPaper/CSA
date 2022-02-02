@@ -32,7 +32,7 @@ Capitalized and <span class="keyterms_link">highlighted</span> words have the me
 
 3. ## Professional Services  
 
-    <span class="keyterms_link">Provider</span> will perform the <span class="orderform_link">Professional Services</span> as detailed in a Cover Page, if any, and <span class="keyterms_link">Customer</span> will reasonably cooperate with <span class="keyterms_link">Provider</span> to allow the performance of <span class="orderform_link">Professional Services</span>, including providing <span class="keyterms_link">Customer</span> Content as needed. <span class="keyterms_link">Provider</span> is not responsible for any inability to perform the <span class="orderform_link">Professional Services</span> if <span class="keyterms_link">Customer</span> does not cooperate as reasonably requested.
+    <span class="keyterms_link">Provider</span> will perform the <span class="orderform_link">Professional Services</span> as detailed in a Cover Page, if any, and <span class="keyterms_link">Customer</span> will reasonably cooperate with <span class="keyterms_link">Provider</span> to allow the performance of <span class="orderform_link">Professional Services</span>, including providing Customer Content as needed. <span class="keyterms_link">Provider</span> is not responsible for any inability to perform the <span class="orderform_link">Professional Services</span> if <span class="keyterms_link">Customer</span> does not cooperate as reasonably requested.
 
 4. ## Privacy & Security  
 
