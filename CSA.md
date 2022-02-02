@@ -78,7 +78,7 @@ Capitalized and <span class="keyterms_link">highlighted</span> words have the me
 
 7. ## Representations & Warranties  
 
-    7.1 <span class="header_3">Mutual.</span>  Each party represents and warrants to the other that: (a) it has the legal power and authority to enter into this Agreement; (b) it is duly organized, validly existing, and in good standing under the Applicable Laws of the jurisdiction of its origin, (c) it will comply with all Applicable Laws in performing its obligations or exercising its rights in this Agreement; and (d) it will comply with the <span class="keyterms_link">Additional Warranties</span>.
+    7.1 <span class="header_3">Mutual.</span>  Each party represents and warrants to the other that: (a) it has the legal power and authority to enter into this Agreement; (b) it is duly organized, validly existing, and in good standing under the Applicable Laws of the jurisdiction of its origin; (c) it will comply with all Applicable Laws in performing its obligations or exercising its rights in this Agreement; and (d) it will comply with the <span class="keyterms_link">Additional Warranties</span>.
 
     7.2 <span class="header_3">From Customer</span>. <span class="keyterms_link">Customer</span> represents and warrants that it, all Users, and anyone submitting Customer Content each have and will continue to have all rights necessary to submit or make available Customer Content to the Product and to allow the use of Customer Content as described in the Agreement.
 
