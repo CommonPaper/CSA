@@ -208,7 +208,7 @@ During the <span class="orderform_link">Subscription Period</span> and for six m
 
     15.20 **"Product”** means the Cloud Service, Software, and Documentation.
 
-    15.21 **"Prohibited Data"** means (a) patient, medical or other protected health information regulated by the Health Insurance Portability and Accountability Act; (b) credit, debit, bank account, or other financial account numbers; (c) social security numbers, driver's license numbers, or other unique and private government ID numbers; (d) special categories of data as defined in the GDPR; and (e) other similar categories of sensitive information as set forth in the Applicable Data Protection Laws.
+    15.21 **"Prohibited Data"** means (a) patient, medical, or other protected health information regulated by the Health Insurance Portability and Accountability Act; (b) credit, debit, bank account, or other financial account numbers; (c) social security numbers, driver's license numbers, or other unique and private government ID numbers; (d) special categories of data as defined in the GDPR; and (e) other similar categories of sensitive information as set forth in the Applicable Data Protection Laws.
 
     15.22 **"Protected Party"** means a party to this Agreement when the party is receiving the benefit of protection for a particular Covered Claim.
 
