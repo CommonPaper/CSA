@@ -36,7 +36,7 @@ Capitalized and <span class="keyterms_link">highlighted</span> words have the me
 
 4. ## Privacy & Security  
 
-    4.1 <span class="header_3">Personal Data.</span>  Before submitting Personal Data governed by GDPR, <span class="keyterms_link">Customer</span> must enter into a data processing agreement with <span class="keyterms_link">Provider</span>. If the parties have a <span class="keyterms_link">DPA</span>, the terms of the <span class="keyterms_link">DPA</span> will control each party's rights and obligations as to Personal Data and the terms of the <span class="keyterms_link">DPA</span> will control in the event of any conflict with these Standard Terms.  
+    4.1 <span class="header_3">Personal Data.</span>  Before submitting Personal Data governed by GDPR, <span class="keyterms_link">Customer</span> must enter into a data processing agreement with <span class="keyterms_link">Provider</span>. If the parties have a <span class="keyterms_link">DPA</span>, the terms of the <span class="keyterms_link">DPA</span> will control each party's rights and obligations as to Personal Data and the terms of the <span class="keyterms_link">DPA</span> will control in the event of any conflict with this Agreement.
 
     4.2 <span class="header_3">Prohibited Data.</span>  <span class="keyterms_link">Customer</span> will not (and will not allow anyone else to) submit Prohibited Data to the Product unless authorized by the Cover Page.
 
