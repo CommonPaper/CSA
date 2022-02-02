@@ -202,7 +202,7 @@ During the <span class="orderform_link">Subscription Period</span> and for six m
 
     15.17 **"Key Terms”** means the portion of a Cover Page that includes the key legal details and definitions for this Agreement that are not defined in the Standard Terms. The Key Terms may include details about Covered Claims, set the <span class="keyterms_link">Governing Law</span>, or contain other details about this Agreement.
 
-    15.18 **"Order Form"** means e.the portion of a Cover Page that includes the key business details and definitions for this Agreement that are not defined in the Standard Terms. An Order Form may include details about the level of access and use granted to the Cloud Service, nature and timing of <span class="orderform_link">Professional Services</span>, extent of <span class="orderform_link">Technical Support</span>, or other details about the Product.
+    15.18 **"Order Form"** means the portion of a Cover Page that includes the key business details and definitions for this Agreement that are not defined in the Standard Terms. An Order Form may include details about the level of access and use granted to the Cloud Service, nature and timing of <span class="orderform_link">Professional Services</span>, extent of <span class="orderform_link">Technical Support</span>, or other details about the Product.
 
     15.19 **"Personal Data"** will have the meaning(s) set forth in the Applicable Data Protection Laws for personal information, personal data, personally identifiable information, or other similar term.
 
