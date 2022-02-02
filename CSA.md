@@ -44,7 +44,7 @@ Capitalized and <span class="keyterms_link">highlighted</span> words have the me
 
 5. ## Payment & Taxes  
 
-    5.1 <span class="header_3">Fees & Invoices.</span>  All fees are in U.S. Dollars and are exclusive of taxes. Except for the prorated refund of prepaid fees allowed with specific termination rights, fees are non-refundable. <span class="keyterms_link">Provider</span> will send invoices for fees applicable to the Product once per <span class="orderform_link">Invoice Period</span> in advance starting on the <span class="orderform_link">Subscription Start Date</span>. Invoices for <span class="orderform_link">Professional Services</span> may be sent monthly during performance of the <span class="orderform_link">Professional Services</span> unless the Cover Page includes a different cadence.
+    5.1 <span class="header_3">Fees and Invoices.</span>  All fees are in U.S. Dollars and are exclusive of taxes. Except for the prorated refund of prepaid fees allowed with specific termination rights, fees are non-refundable. <span class="keyterms_link">Provider</span> will send invoices for fees applicable to the Product once per <span class="orderform_link">Invoice Period</span> in advance starting on the <span class="orderform_link">Subscription Start Date</span>. Invoices for <span class="orderform_link">Professional Services</span> may be sent monthly during performance of the <span class="orderform_link">Professional Services</span> unless the Cover Page includes a different cadence.
 
     5.2 <span class="header_3">Payment.</span>  <span class="keyterms_link">Customer</span> will pay <span class="keyterms_link">Provider</span> the fees and taxes in each invoice in U.S. Dollars within the <span class="orderform_link">Payment Period</span>.
 
