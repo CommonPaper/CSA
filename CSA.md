@@ -2,7 +2,7 @@
 
 ## USING THIS AGREEMENT
 To use this Agreement, the parties must complete and sign or electronically accept a Cover Page.
-Capitalized and <span class="keyterms_link">highlighted</span> words have the meanings given on the Cover Page. However, if the Cover Page omits or do not define a highlighted word, the default meaning will be "none" or "not applicable". All other capitalized words have the meanings given in these Standard Terms.
+Capitalized and <span class="keyterms_link">highlighted</span> words have the meanings given on the Cover Page. However, if the Cover Page omits or does not define a highlighted word, the default meaning will be "none" or "not applicable". All other capitalized words have the meanings given in these Standard Terms.
 
 1. ## Service  
 
