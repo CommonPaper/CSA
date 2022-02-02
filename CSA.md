@@ -130,7 +130,7 @@ During the <span class="orderform_link">Subscription Period</span> and for six m
 
 13. ## Reservation of Rights
 
-    Except for the limited license to copy and use Software and Documentation in Section 1.1 (Access and Use), <span class="keyterms_link">Provider</span> retains all right, title, and interest in and to the Product, whether developed before or after the <span class="keyterms_link">Effective Date</span>. Except for the limited rights in Section 1.7 (Customer Content), <span class="keyterms_link">Effective Date</span> retains all right, title, and interest in and to the Customer Content.
+    Except for the limited license to copy and use Software and Documentation in Section 1.1 (Access and Use), <span class="keyterms_link">Provider</span> retains all right, title, and interest in and to the Product, whether developed before or after the <span class="keyterms_link">Effective Date</span>. Except for the limited rights in Section 1.7 (Customer Content), <span class="keyterms_link">Customer</span> retains all right, title, and interest in and to the Customer Content.
 
 14. ## General Terms  
 
