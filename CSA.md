@@ -116,7 +116,7 @@ Capitalized and <span class="sample_link">highlighted</span> words have the mean
     10.6 <span class="header_3">Exclusive Remedy.</span>  This Section 10 (Indemnification), together with any termination rights, describes each Protected Party's exclusive remedy and each Indemnifying Party's entire liability for a Covered Claim.
 
 11. ## Insurance  
-During the <span class="orderform_link">Subscription Period</span> and for six months after, <span class="keyterms_link">Provider</span> will carry commercial insurance policies with coverage limits of at least the <span class="keyterms_link">Insurance Minimums</span>, if any. Upon request, <span class="keyterms_link">Provider</span> will give <span class="keyterms_link">Customer</span> a certificate of insurance evidencing its insurance policies that meet the <span class="keyterms_link">Insurance Minimums</span>. <span class="keyterms_link">Provider's</span> insurance policies will not be considered as evidence of <span class="keyterms_link">Provider's</span> liability.
+During the <span class="orderform_link">Subscription Period</span> and for six months after, <span class="keyterms_link">Provider</span> will carry commercial insurance policies with coverage limits that meet the <span class="keyterms_link">Insurance Minimums</span>, if any. Upon request, <span class="keyterms_link">Provider</span> will give <span class="keyterms_link">Customer</span> a certificate of insurance evidencing its insurance policies that meet the <span class="keyterms_link">Insurance Minimums</span>. <span class="keyterms_link">Provider's</span> insurance policies will not be considered as evidence of <span class="keyterms_link">Provider's</span> liability.
 
 12. ## Confidentiality  
 
