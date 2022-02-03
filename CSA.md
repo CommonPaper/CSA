@@ -64,7 +64,7 @@ Capitalized and <span class="sample_link">highlighted</span> words have the mean
 
       (a) <span class="keyterms_link">Customer</span> will no longer have any right to use the Product, <span class="orderform_link">Technical Support</span>, or <span class="orderform_link">Professional Services</span>.
 
-      (b) Upon <span class="keyterms_link">Customer's</span> request, <span class="keyterms_link">Provider</span> will delete Customer Content within 60 days of termination.
+      (b) Upon <span class="keyterms_link">Customer's</span> request, <span class="keyterms_link">Provider</span> will delete Customer Content within 60 days.
 
       (c) Each Recipient will return or destroy Discloser's Confidential Information in its possession or control.
 
