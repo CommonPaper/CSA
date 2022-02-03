@@ -95,7 +95,7 @@ Capitalized and <span class="sample_link">highlighted</span> words have the mean
 
     9.2 <span class="header_3">Damages Waiver.</span>  **Each party's liability for any claim or liability arising out of or relating to this Agreement will be limited to the fullest extent permitted by Applicable Laws. Under no circumstances will either party be liable to the other for lost profits or revenues, or for consequential, special, indirect, exemplary, punitive, or incidental damages relating to this Agreement, even if the party is informed of the possibility of this type of damage in advance.**
 
-    9.3 <span class="header_3">Exceptions.</span>  If there are <span class="keyterms_link">Unlimited Claims</span>, the liability caps in Section 9.1 and the damages waiver in Section 9.2 do not apply to the <span class="keyterms_link">Unlimited Claims</span>. If there are <span class="keyterms_link">Increased Claims</span>, the damages waiver in Section 9.2 does not apply to the <span class="keyterms_link">Increased Claims</span>.
+    9.3 <span class="header_3">Exceptions.</span>  The liability caps in Section 9.1 and the damages waiver in Section 9.2 do not apply to any <span class="keyterms_link">Unlimited Claims</span>. The damages waiver in Section 9.2 does not apply to any <span class="keyterms_link">Increased Claims</span>.
 
 10. ## Indemnification  
 
