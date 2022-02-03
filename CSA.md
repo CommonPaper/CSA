@@ -214,7 +214,7 @@ During the <span class="orderform_link">Subscription Period</span> and for six m
 
     15.23 **"Recipient"** means a party to this Agreement when the party receives Confidential Information from the other party.
 
-    15.24 **"Software"** means the client-side software or applications made available by <span class="keyterms_link">Provider</span> for <span class="keyterms_link">Customer</span> to install, download (whether onto their machine or in their browser), or execute as part of the Product.
+    15.24 **"Software"** means the client-side software or applications made available by <span class="keyterms_link">Provider</span> for <span class="keyterms_link">Customer</span> to install, download (whether onto a machine or in a browser), or execute as part of the Product.
 
     15.25 **"Usage Data"** means data and information about the provision, use, and performance of the Product and related offerings based on <span class="keyterms_link">Customer's</span> or User's use of the Product.
 
