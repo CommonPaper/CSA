@@ -22,7 +22,7 @@ Capitalized and <span class="sample_link">highlighted</span> words have the mean
 
 2. ## Restrictions & Obligations  
 
-    2.1 <span class="header_3">Restrictions On Customer.</span>
+    2.1 <span class="header_3">Restrictions on Customer.</span>
 
       (a) Except as expressly permitted by this Agreement, <span class="keyterms_link">Customer</span> will not (and will not allow any anyone else to): (i) reverse engineer, decompile, or attempt to discover any source code or underlying ideas or algorithms of the Product (except to the extent Applicable Laws prohibit this restriction); (ii) provide, sell, transfer, sublicense, lend, distribute, rent, or otherwise allow others to access or use the Product; (iii) remove any proprietary notices or labels; (iv) copy, modify, or create derivative works of the Product; (v) conduct security or vulnerability tests on, interfere with the operation of, cause performance degradation of, or circumvent access restrictions of the Product; (vi) access accounts, information, data, or portions of the Product to which <span class="keyterms_link">Customer</span> does not have explicit authorization; (vii) use the Product to develop a competing service or product; (viii) use the Product with any High Risk Activities or with activity prohibited by Applicable Laws; (ix) use the Product to obtain unauthorized access to anyone else’s networks or equipment; or (x) upload, submit, or otherwise make available to the Product any Customer Content to which <span class="keyterms_link">Customer</span> and Users do not have the proper rights.
 
