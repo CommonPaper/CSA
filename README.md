@@ -7,7 +7,7 @@ The Common Paper Cloud Service Agreement was created by a committee of over 40 a
 Version 1 of this agreement will remain unchanged and hosted on [this page forever](https://commonpaper.com/standards/cloud-service-agreement/1.0). Over time, we will create new versions to accommodate changes to the law and additional use cases. We expect future changes to occur infrequently, and they will always be posted as a new version.
 
 ### How do I use this agreement?
-To execute an agreement using the Common Paper CSA, first download a copy of the Cover Sheet in your preferred format. Then finalize the terms of the agreement with your counterparty and input those terms into the corresponding bracketed section of the Cover Sheet and Order Forms. Finally, sign your Cover Sheet and Order Form with your counterparty via the signing process of your choice. The Cover Sheet incorporates the Standard Terms by reference, completing the executed agreement.
+To execute an agreement using the Common Paper CSA, first download a copy of the Cover Page in your preferred format. Then finalize the terms of the agreement with your counterparty and input those terms into the corresponding bracketed section of the Cover Page and Order Forms. Finally, sign your Cover Page and Order Form with your counterparty via the signing process of your choice. The Cover Page incorporates the Standard Terms by reference, completing the executed agreement.
 
 ### What license is this agreement released under?
 Common Paper agreements are free to use and modify under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
