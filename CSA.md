@@ -1,6 +1,7 @@
 # Cloud Service Agreement
 
 ## USING THIS AGREEMENT
+
 To use this Agreement, the parties must complete and sign or electronically accept a Cover Page.
 Capitalized and <span class="sample_link">highlighted</span> words have the meanings given on the Cover Page. However, if the Cover Page omits or does not define a highlighted word, the default meaning will be "none" or "not applicable". All other capitalized words have the meanings given in these Standard Terms.
 
@@ -87,7 +88,8 @@ Capitalized and <span class="sample_link">highlighted</span> words have the mean
     7.4 <span class="header_3">Provider Warranty Remedy</span>.  If <span class="keyterms_link">Provider</span> breaches a warranty in Section 7.3, <span class="keyterms_link">Customer</span> must give <span class="keyterms_link">Provider</span> notice (with enough detail for <span class="keyterms_link">Provider</span> to understand or replicate the issue) within 45 days of discovering the issue. Within 45 days of receiving sufficient details of the warranty issue, <span class="keyterms_link">Provider</span> will attempt to restore the general functionality of the Cloud Service or reperform the <span class="orderform_link">Professional Services</span>. If <span class="keyterms_link">Provider</span> cannot resolve the issue, <span class="keyterms_link">Customer</span> may terminate the affected Order Form and <span class="keyterms_link">Provider</span> will pay to <span class="keyterms_link">Customer</span> a prorated refund of prepaid fees for the remainder of the <span class="orderform_link">Subscription Period</span>. <span class="keyterms_link">Provider's</span> restoration and reperformance obligations, and <span class="keyterms_link">Customer's</span> termination right, are <span class="keyterms_link">Customer's</span> only remedies if <span class="keyterms_link">Provider</span> does not meet the warranties in Section 7.3.
 
 8. ## Disclaimer of Warranties  
-<span class="keyterms_link">Provider</span> makes no guarantees that the Product will always be safe, secure, or error-free, or that it will function without disruptions, delays, or imperfections. The warranties in Section 7.3 do not apply to any misuse or unauthorized modification of the Product, nor to any product or service provided by anyone other than <span class="keyterms_link">Provider</span>. Except for the warranties in Section 7, <span class="keyterms_link">Provider</span> and <span class="keyterms_link">Customer</span> each **disclaim all other warranties, whether express or implied, including the implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.** These disclaimers apply to the maximum extent permitted by Applicable Laws.
+
+    <span class="keyterms_link">Provider</span> makes no guarantees that the Product will always be safe, secure, or error-free, or that it will function without disruptions, delays, or imperfections. The warranties in Section 7.3 do not apply to any misuse or unauthorized modification of the Product, nor to any product or service provided by anyone other than <span class="keyterms_link">Provider</span>. Except for the warranties in Section 7, <span class="keyterms_link">Provider</span> and <span class="keyterms_link">Customer</span> each **disclaim all other warranties, whether express or implied, including the implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.** These disclaimers apply to the maximum extent permitted by Applicable Laws.
 
 9. ## Limitation of Liability  
 
@@ -116,7 +118,8 @@ Capitalized and <span class="sample_link">highlighted</span> words have the mean
     10.6 <span class="header_3">Exclusive Remedy.</span>  This Section 10 (Indemnification), together with any termination rights, describes each Protected Party's exclusive remedy and each Indemnifying Party's entire liability for a Covered Claim.
 
 11. ## Insurance  
-During the <span class="orderform_link">Subscription Period</span> and for six months after, <span class="keyterms_link">Provider</span> will carry commercial insurance policies with coverage limits that meet the <span class="keyterms_link">Insurance Minimums</span>, if any. Upon request, <span class="keyterms_link">Provider</span> will give <span class="keyterms_link">Customer</span> a certificate of insurance evidencing its insurance policies that meet the <span class="keyterms_link">Insurance Minimums</span>. <span class="keyterms_link">Provider's</span> insurance policies will not be considered as evidence of <span class="keyterms_link">Provider's</span> liability.
+
+    During the <span class="orderform_link">Subscription Period</span> and for six months after, <span class="keyterms_link">Provider</span> will carry commercial insurance policies with coverage limits that meet the <span class="keyterms_link">Insurance Minimums</span>, if any. Upon request, <span class="keyterms_link">Provider</span> will give <span class="keyterms_link">Customer</span> a certificate of insurance evidencing its insurance policies that meet the <span class="keyterms_link">Insurance Minimums</span>. <span class="keyterms_link">Provider's</span> insurance policies will not be considered as evidence of <span class="keyterms_link">Provider's</span> liability.
 
 12. ## Confidentiality  
 
@@ -124,7 +127,7 @@ During the <span class="orderform_link">Subscription Period</span> and for six m
 
     12.2 <span class="header_3">Exclusions.</span>  Confidential Information does not include information that (a) Recipient knew without any obligation of confidentiality before disclosure by Discloser; (b) is or becomes publicly known and generally available through no fault of Recipient; (c) Recipient receives under no obligation of confidentiality from someone else who is authorized to make the disclosure; or (d) Recipient independently developed without use of or reference to Discloser's Confidential Information.
 
-    12.3 <span class="header_3">Required Disclosures.</span>  Recipient may disclose Discloser's Confidential Information to the extent required by Applicable Laws if, unless prohibited by Applicable Laws, Recipient provides the Disclosing Party reasonable advance notice of the required disclosure and reasonably cooperates, at the Discloser's expense, with the Discloser's efforts to obtain confidential treatment for the Confidential Information.
+    12.3 <span class="header_3">Required Disclosures.</span>  Recipient may disclose Discloser's Confidential Information to the extent required by Applicable Laws if, unless prohibited by Applicable Laws, Recipient provides the Discloser reasonable advance notice of the required disclosure and reasonably cooperates, at the Discloser's expense, with the Discloser's efforts to obtain confidential treatment for the Confidential Information.
 
     12.4 <span class="header_3">Permitted Disclosures.</span>  Recipient may disclose Discloser's Confidential Information to Users, employees, advisors, contractors, and representatives who each have a need to know the Confidential Information, but only if the person or entity is bound by confidentiality obligations at least as protective as those in this Section 12 and Recipient remains responsible for everyone's compliance with the terms of this Section 12.
 
