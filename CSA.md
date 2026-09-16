@@ -125,7 +125,7 @@
     27. <span id="13.27">**"Protected Party"**</span> means a party to this Agreement when the party is receiving the benefit of protection for a particular Covered Claim.
     28. <span id="13.28">**"Recipient"**</span> means a party to this Agreement when the party receives Confidential Information from the other party.
     29. <span id="13.29">**"Software"**</span> means the client-side software or applications made available by <span class="coverpage_link">Provider</span> for <span class="coverpage_link">Customer</span> to install, download (whether onto a machine or in a browser), or execute as part of the Product.
-    30. <span id="13.30">**"Standard Terms"**</span> means these Common Paper Cloud Service Agreement Standard Terms Version 2.1, which are posted at <https://commonpaper.com/standards/cloud-service-agreement/2.1/>.
+    30. <span id="13.30">**"Standard Terms"**</span> means these Common Paper Cloud Service Agreement Standard Terms Version 3.0, which are posted at <https://commonpaper.com/standards/cloud-service-agreement/3.0/>.
     31. <span id="13.31">**"Usage Data"**</span> means data and information about the provision, use, and performance of the Product and related offerings based on <span class="coverpage_link">Customer’s</span> or User’s use of the Product.
     32. <span id="13.32">**"User"**</span> means any individual who uses the Product on <span class="coverpage_link">Customer’s</span> behalf or through <span class="coverpage_link">Customer’s</span> account.
     33. <span id="13.33">**"Variable"**</span></span> means a word or phrase that is highlighted and capitalized, such as <span class="orderform_link">Subscription Period</span> or <span class="keyterms_link">Governing Law</span>.
