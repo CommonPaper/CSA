@@ -51,7 +51,7 @@
 8. <span class="header_2" id="8">Limitation of Liability</span>
     1. <span class="header_3" id="8.1">Liability Cap.</span> **Except as provided in the Order Form, each party’s total cumulative liability for all claims arising out of or relating to this Agreement will not be more than the <span class="keyterms_link">General Cap Amount</span>.**
     2. <span class="header_3" id="8.2">Damages Waiver.</span>  **Except as provided in Section 8.4 (Exceptions) or in the Order Form, under no circumstances will either party be liable to the other for lost profits or revenues (whether direct or indirect), or for consequential, special, indirect, exemplary, punitive, or incidental damages relating to this Agreement, even if the party is informed of the possibility of this type of damage in advance.**
-    3. <span class="header_3" id="8.3">Applicability.</span>  **The limitations and waivers contained in Sections 8.1 (Liability Caps) and 8.2 (Damages Waiver) apply to all liability, whether in tort (including negligence), contract, breach of statutory duty, or otherwise.**
+    3. <span class="header_3" id="8.3">Applicability.</span>  **The limitations and waivers contained in Sections 8.1 (Liability Cap) and 8.2 (Damages Waiver) apply to all liability, whether in tort (including negligence), contract, breach of statutory duty, or otherwise.**
     4. <span class="header_3" id="8.4">Exceptions.</span>  Section 8.2 (Damages Waiver) does not apply to any breach of Section 10 (Confidentiality). Nothing in this Agreement will limit, exclude, or restrict a party's liability to the extent prohibited by Applicable Laws.
 
 9. <span class="header_2" id="9">Indemnification</span>
